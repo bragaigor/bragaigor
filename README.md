@@ -16,7 +16,7 @@
 - ♥️ Vitality: ------ 28 --------------------  /\\/  /  |...::..|`   :   `|  -------
 - 🧬 Species: ------- Homo Sapiens ----------  |:'\ |   /'''::''|   .:.   |  --------
 - 💪 Strength: ------ Software Development ---  \ /\;-,/\   ::  |..:::::..|  ---------
-- 🛡️ Wekness: ------- Remember Acronyms ------  |\ <` >  >._::_.| ':::::' |  ---------
+- 🛡️ Weakness: ------ Remember Acronyms ------  |\ <` >  >._::_.| ':::::' |  ---------
 - 💡 Ask me about: -- Anything  ------------------------------------------------------
 - 🤓 Interests: ----- Systems, Machine Learning/Artificial Intelligence, Compilers  --
 - 🤔 Fun fact: ------ Former professional tennis player  -----------------------------
