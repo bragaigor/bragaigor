@@ -1,16 +1,27 @@
-### Hi there 👋
+# Animus
 
-<!--
-**bragaigor/bragaigor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Braga's github stats](https://github-readme-stats.vercel.app/api?username=bragaigor&show_icons=true&theme=dark)
 
-Here are some ideas to get you started:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bragaigor&theme=dark&hide=CSS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```
+--------- Attributes --------------------------------------------------
+-----------------------------------------   ,   A           {}  ----------
+- 🗒️ Name: ---------- Igor Braga -------   / \, | ,        .--.  ------------
+- ⚡ Speed: --------- 82 --------------   |    =|= >      /.--.\  -------------
+- 🍀 Luck: ---------- 17 ---------------   \ /` | `       |====|　 --------------
+- 🪄 Magic: -------  -10 ----------------   `   |         |`::`|   ---------------
+- 🔍 Debuging: ------ 79 -------------------    |     .-;`\..../`;_.-^-._  --------
+- ♥️ Vitality: ------ 28 --------------------  /\\/  /  |...::..|`   :   `|  -------
+- 🧬 Species: ------- Homo Sapiens ----------  |:'\ |   /'''::''|   .:.   |  --------
+- 💪 Strength: ------ Software Development ---  \ /\;-,/\   ::  |..:::::..|  ---------
+- 🛡️ Wekness: ------- Remember Acronyms ------  |\ <` >  >._::_.| ':::::' |  ---------
+- 💡 Ask me about: -- Anything  ------------------------------------------------------
+- 🤓 Interests: ----- Systems, Machine Learning/Artificial Intelligence, Compilers  --
+- 🤔 Fun fact: ------ Former professional tennis player  -----------------------------
+--------------------------------------------------------------------------------------
+```
+
+- Twitter: [@igor_h_braga](https://twitter.com/igor_h_braga)
+- LinkedIn: [linkedin.com/in/igorbraga](https://www.linkedin.com/in/igorbraga)
